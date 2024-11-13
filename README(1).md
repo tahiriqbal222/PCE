@@ -2,7 +2,7 @@
 
 ### **Computational design and screening of acceptor materials for organic solar cells**
 
-![workflow](workflow.jpg)
+![workflow](worflow.gif)
 
 ## <u>Motivation</u>
 
